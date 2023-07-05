@@ -16,6 +16,7 @@ VER: 00.00.03
     * Added 09 column identifier to both sides
     * Moved GPIO id text to other side of the "set of two" connected pads
     * Moved Header text away from header pads so more visible when headers soldered on
+    * Added regions encircling the GPIO labels and what coupled pads are associated with them to better define which are which
 
 To consider:
     * Making 3 columns of A, B, C etc indicators, as that would potentially make it more obvious which pads are *not* connected to MCU pins. This may not be needed once headers are soldered in, it might be obvious
