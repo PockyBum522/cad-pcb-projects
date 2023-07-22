@@ -22,3 +22,4 @@ VER: 01.00.00
     * Switched to KiCad
     * Moved rails back one space so labels for GPIO pins have more room to be printed
     * Added RESET and BOOT switches
+    * Added switch orientation silkscreening
