@@ -18,5 +18,7 @@ VER: 00.00.03
     * Moved Header text away from header pads so more visible when headers soldered on
     * Added regions encircling the GPIO labels and what coupled pads are associated with them to better define which are which
 
-To consider:
-    * Making 3 columns of A, B, C etc indicators, as that would potentially make it more obvious which pads are *not* connected to MCU pins. This may not be needed once headers are soldered in, it might be obvious
+VER: 01.00.00
+    * Switched to KiCad
+    * Moved rails back one space so labels for GPIO pins have more room to be printed
+    * Added RESET and BOOT switches
