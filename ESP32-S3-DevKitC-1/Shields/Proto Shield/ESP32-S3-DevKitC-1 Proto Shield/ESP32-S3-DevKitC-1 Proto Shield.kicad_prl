@@ -65,11 +65,11 @@
       37,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffffef_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Double Sided - ESP32-S3-DevKitC-1 Proto Shield.kicad_prl",
+    "filename": "ESP32-S3-DevKitC-1 Proto Shield.kicad_prl",
     "version": 3
   },
   "project": {
