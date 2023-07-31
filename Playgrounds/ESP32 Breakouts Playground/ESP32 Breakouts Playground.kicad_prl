@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -70,7 +70,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "ESP32 Breakouts ONLY.kicad_prl",
+    "filename": "ESP32 Breakouts Playground.kicad_prl",
     "version": 3
   },
   "project": {
