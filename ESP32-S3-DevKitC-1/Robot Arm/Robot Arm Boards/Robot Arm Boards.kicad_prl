@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -34,7 +34,6 @@
       3,
       4,
       5,
-      7,
       8,
       9,
       10,
@@ -62,10 +61,10 @@
       34,
       35,
       36,
-      37,
+      39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffffef_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -75,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ESP32-S3-DevKitC-1 Proto Shield.kicad_prl",
+    "filename": "Robot Arm Boards.kicad_prl",
     "version": 3
   },
   "project": {
