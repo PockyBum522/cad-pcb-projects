@@ -445,8 +445,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Footprint_Library"
+    ],
+    "pinned_symbol_libs": [
+      "David_Library"
+    ]
   },
   "meta": {
     "filename": "Car NFC Main Board.kicad_pro",
