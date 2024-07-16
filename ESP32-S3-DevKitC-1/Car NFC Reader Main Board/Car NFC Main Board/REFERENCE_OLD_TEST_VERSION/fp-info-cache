@@ -1,4 +1,4 @@
-23924392592780240
+23915786908221543
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56973,42 +56973,7 @@ emi filter
 5
 5
 Footprint_Library
-8_PIN_HEADER
-
-
-0
-10
-5
-Footprint_Library
-ESP32-S3-DEVKITC_DAVID
-
-
-0
-44
-39
-Footprint_Library
-MOMENTARY_BUTTON
-
-
-0
-4
-2
-Footprint_Library
-TLP240A
-
-
-0
-4
-4
-Footprint_Library
 YK441 Screw Terminal Block
-
-
-0
-4
-4
-Footprint_Library
-YK441 Screw Terminal Block_CAR_NFC
 
 
 0
