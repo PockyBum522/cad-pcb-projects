@@ -1156,7 +1156,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "3eb869a0-1222-4fbd-92bf-c729ad822f59")
 			(effects
 				(font
 					(size 1 1)
@@ -1167,7 +1167,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "6e6f8f62-8d8e-479d-9134-fae3781ec235")
 			(effects
 				(font
 					(size 1 1)
@@ -1224,7 +1224,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "43373fbd-29f2-43d0-998d-0270c4a9e34a")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1235,12 +1235,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "f65dcfed-cecb-4eaa-8bb0-dcb32215b6da")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "6d5c4564-8ed6-4aec-8181-3a0ecca07def")
 			(effects
 				(font
 					(size 1 1)
@@ -1252,7 +1252,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "d608adc4-61ca-4269-b185-c8b705a1a572")
 		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
@@ -1265,7 +1265,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "3862923e-7d99-4f93-b8ef-6e5b18eb7f9b")
 			(effects
 				(font
 					(size 1 1)
@@ -1276,7 +1276,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "d22bfd05-814f-4e46-aa66-297f64fe7ce8")
 			(effects
 				(font
 					(size 1 1)
@@ -1333,7 +1333,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "3525d51d-d582-412e-9238-3440c4e0ec69")
 		)
 		(fp_circle
 			(center 0 0)
@@ -1344,12 +1344,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "0022621b-c172-4c5d-b9dc-fcdca9a70091")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "2096b355-17de-428a-92bd-a4f0a19e4be8")
 			(effects
 				(font
 					(size 1 1)
@@ -1361,7 +1361,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "c9037fd9-4570-470f-bf41-39a7f6d72c4d")
 		)
 	)
 	(footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
@@ -1927,7 +1927,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "acb10901-c8e1-4fc3-98d9-b5254974e8ce")
 			(effects
 				(font
 					(size 1 1)
@@ -1938,7 +1938,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "475dd9be-98a4-4f18-bdf4-98aacb0315d3")
 			(effects
 				(font
 					(size 1 1)
@@ -1995,7 +1995,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "e73011a3-27f5-4a81-acb1-1ce930582533")
 		)
 		(fp_circle
 			(center 0 0)
@@ -2006,12 +2006,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "3eb7b7c9-c774-4f5d-9dc8-1f99cd4ef9ec")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "726a25dc-9e13-4102-9c8b-3bd1bc8dfd01")
 			(effects
 				(font
 					(size 1 1)
@@ -2023,7 +2023,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "3b4a526c-0344-4ba8-b0b6-b29cb82057e9")
 		)
 	)
 	(footprint "Footprint_Library:ESP32-S3-DEVKITC_DAVID"
@@ -4146,7 +4146,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "2437651f-d033-4806-9317-68ca56e9e538")
 			(effects
 				(font
 					(size 1 1)
@@ -4157,7 +4157,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "79b726fb-db6a-4873-8d22-87231abaaac9")
 			(effects
 				(font
 					(size 1 1)
@@ -4214,7 +4214,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "b68efa62-fb66-4a05-8588-f13a6e266787")
 		)
 		(fp_circle
 			(center 0 0)
@@ -4225,12 +4225,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "631df48b-23ac-4c98-9679-4efa1ccd727a")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "09d1eee2-3bd2-4e99-82a2-4901c7302cf7")
 			(effects
 				(font
 					(size 1 1)
@@ -4242,7 +4242,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "29cd947d-068b-4f00-a27f-2f94b040e93a")
 		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
@@ -4255,7 +4255,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "1e9afb33-6849-480a-8366-c28d7d3f3e20")
 			(effects
 				(font
 					(size 1 1)
@@ -4266,7 +4266,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "21f93c5a-6ac0-4d90-8d83-985dafff777e")
 			(effects
 				(font
 					(size 1 1)
@@ -4323,7 +4323,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "6a9ada49-95bd-4f5f-b39d-7ba5bf8a17da")
 		)
 		(fp_circle
 			(center 0 0)
@@ -4334,12 +4334,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "bc4330a3-1530-44db-9f59-60cd03bed06e")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "0ee9b78e-84e9-4998-975b-00b93cd029bc")
 			(effects
 				(font
 					(size 1 1)
@@ -4351,7 +4351,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "cf32fdf3-5291-46d3-bd1b-a264d0151cc8")
 		)
 	)
 	(footprint "Connector_RJ:RJ45_Amphenol_RJHSE5380"
@@ -5341,7 +5341,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "bce1ffbd-9e76-4dbb-8b35-1ab9c9493bf7")
 			(effects
 				(font
 					(size 1 1)
@@ -5352,7 +5352,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "c7a311f7-6561-428f-8dd9-978371d812f3")
 			(effects
 				(font
 					(size 1 1)
@@ -5409,7 +5409,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "e11a6df8-3f07-4705-a742-691117660914")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5420,12 +5420,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "0b279806-919d-4519-9e49-6c748d98f869")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "831346b5-1265-4e68-8cd1-bad409ed8808")
 			(effects
 				(font
 					(size 1 1)
@@ -5437,7 +5437,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "1dc79994-c710-4c76-ae3f-5f726ec315e1")
 		)
 	)
 	(footprint "TestPoint:TestPoint_Pad_D1.0mm"
@@ -5450,7 +5450,7 @@
 			(at -27.58 9.76 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "124fcde1-1b84-4c49-bb1e-ccf75f4cc4af")
+			(uuid "f1c2ff56-6f77-4234-a231-fc4e4d726c2b")
 			(effects
 				(font
 					(size 1 1)
@@ -5461,7 +5461,7 @@
 		(property "Value" "TestPoint_Pad_D1.0mm"
 			(at -51.39 25.54 0)
 			(layer "F.Fab")
-			(uuid "061bb5ab-160a-432f-9c24-b2bbcf309f7f")
+			(uuid "705c9d97-94d6-4e47-87b3-32e7fbee231b")
 			(effects
 				(font
 					(size 1 1)
@@ -5518,7 +5518,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "b7e33ddb-3c58-4626-8ecb-8c567986bb5b")
+			(uuid "609a0a8f-4d69-4f60-b28f-e77ae3633ee9")
 		)
 		(fp_circle
 			(center 0 0)
@@ -5529,12 +5529,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "60082423-eeda-4dc0-8211-6941dedaab7a")
+			(uuid "c972d8cd-41a1-40af-95b0-a4f837f977bb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -50.59 20.69 0)
 			(layer "F.Fab")
-			(uuid "1249902e-d504-44cd-bf2b-5c6bbdc3b5e0")
+			(uuid "230f07eb-a7f8-4fb6-8382-d72d73b0427b")
 			(effects
 				(font
 					(size 1 1)
@@ -5546,7 +5546,7 @@
 			(at 0 0)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
-			(uuid "45ba3b27-c4c4-4723-96f6-7fbf97a6f578")
+			(uuid "d6f85fa9-397c-4843-adce-4f4d626318dc")
 		)
 	)
 	(gr_arc
@@ -6405,7 +6405,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VER: 01.00.00"
+	(gr_text "VER: 01.01.00"
 		(at 110.617 141.739862 0)
 		(layer "F.SilkS")
 		(uuid "664162a9-dae7-4873-b0a1-17d87d511c65")
@@ -6775,12 +6775,12 @@
 		(uuid "fd4e7e4f-be7f-4cb2-a6a7-11f0f1de02dd")
 	)
 	(segment
-		(start 95.85 99.58)
-		(end 94.96 100.47)
+		(start 96.73 100.46)
+		(end 96.73 101.63)
 		(width 1.016)
 		(layer "B.Cu")
 		(net 1)
-		(uuid "02a22a5f-fc74-4829-9184-31f8a01aeaeb")
+		(uuid "2f095180-7c59-4028-8aad-b223cd44f7cf")
 	)
 	(segment
 		(start 95.85 97.11)
@@ -6821,14 +6821,6 @@
 		(layer "B.Cu")
 		(net 1)
 		(uuid "7ffcd0ce-d149-43c0-a2d1-3c53c2d4ecdd")
-	)
-	(segment
-		(start 94.96 100.47)
-		(end 94.96 102.704)
-		(width 1.016)
-		(layer "B.Cu")
-		(net 1)
-		(uuid "80a38bce-d303-442f-a037-641631b9444b")
 	)
 	(segment
 		(start 135.77 72.5)
@@ -6885,6 +6877,14 @@
 		(layer "B.Cu")
 		(net 1)
 		(uuid "d59b65d1-7b48-4fa8-9616-9a15f7356467")
+	)
+	(segment
+		(start 95.85 99.58)
+		(end 96.73 100.46)
+		(width 1.016)
+		(layer "B.Cu")
+		(net 1)
+		(uuid "e086b902-29b6-466c-9f7d-cb526f9ce027")
 	)
 	(segment
 		(start 95.86 116.74)
