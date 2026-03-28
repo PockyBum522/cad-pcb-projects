@@ -1,5 +1,9 @@
 # Download/Install KiCad 10
 
+    - Start with no libraries
+
+    - If you install a flatpak version, make sure to use Flatseal to enable read/write permissions for where you want to store projects/libraries
+        
 
 # Get Libraries:
 
