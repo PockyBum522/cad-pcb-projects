@@ -13,6 +13,8 @@
 
     Download just symbols and footprints for now
     
+    [Find out how to actually import symbol libraries and update]
+    
 
 # Schematic Editor Dark Theme:
 
@@ -255,7 +257,10 @@
 
 
 # Walk through setting up JLCPCB Order
-    
+
+
+# BOM
+
     
 # Closing Thoughts:
 
